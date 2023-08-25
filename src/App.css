@@ -1,0 +1,5 @@
+.appContainer{
+  display: flex;
+  height: calc(100vh - 120px);
+  top:60px;
+}

@@ -1,0 +1,17 @@
+.footermain{
+    position: absolute;
+  bottom: 0;
+  width: 100%;
+  height: 40px;
+    background-color: rgb(117, 117, 199);
+   
+    
+}
+/* .footerWrapper{
+  margin-left: 500px;
+  padding-bottom: 20px;
+} */
+p{
+  text-align: center;
+ 
+}

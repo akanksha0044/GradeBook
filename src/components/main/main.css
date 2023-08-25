@@ -1,0 +1,119 @@
+.main{
+  flex: 9;
+  height: calc(100vh - 110px);
+  overflow-y: scroll;
+  
+  position: sticky;
+  top: 60px;
+  
+  
+}
+
+.btns{
+  width: 100px;
+ cursor: pointer;
+  border: none;
+  border-radius: 5px;
+  padding: 10px;
+  margin-left: 5px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  font-weight: 500;
+  background-color: aqua;
+}
+.searchIcon{
+  position: relative;
+  left: 305px;
+  top:10px;
+  color: gray;
+  margin-left: 40px;
+}
+.eject{
+  font-size:10px;
+  position: absolute;
+  margin-top: -5px;
+ 
+  
+}
+.desc{
+  transform: rotate(180deg);
+  
+}
+.colorchange{
+  background-color: red;
+  
+  
+}
+.search{
+  margin-left: 100px;
+  width: 200px;
+  height: 25px;
+  border: 1.5px solid black;
+  border-radius: 5px;
+}
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+th{
+  background-color:blanchedalmond;
+}
+
+td, th {
+  border: 2px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+.Static{
+  width: 150px;
+  border: none;
+  border-radius: 5px;
+  padding: 10px;
+  margin-left: 400px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  font-weight: 500;
+  background-color: aqua;
+}
+.tb2{
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 50%;
+}
+.studentDetail{
+  height: 200px;
+  width: 200px;
+  background-color: blueviolet;
+  border-radius: 20px;
+  box-shadow:  rgba(0, 0, 0, 0.23) 0px 6px 6px;
+}
+.modal {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.modal-content {
+  background-color: white;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+  text-align: left;
+}
+
+.close-button {
+  margin-top: 10px;
+  padding: 5px 10px;
+  border-radius: 5px;
+  background-color: grey;
+  color: white;
+  border: none;
+  cursor: pointer;
+}

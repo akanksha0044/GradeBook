@@ -1,0 +1,45 @@
+.topbercontainer{
+    height: 60px;
+    width: 100%;
+    background-color: rgb(117, 117, 199);
+    display: flex;
+    align-items: center;
+    position:sticky;
+    top:0;
+    z-index: 999;
+
+    justify-content: space-between;
+}
+
+.school{
+    font-size: 40px !important;
+    margin-left: 20px;
+    color: white;
+}
+.topText{
+    
+    margin-left: 10px;
+    position: relative;
+    bottom: 8px;
+
+    font-size: 28px;
+    margin-left: 12px;
+    font-weight: bold;
+    color: white;
+    cursor: pointer;
+}
+.topTextRight{
+    font-size: 25px;
+    margin-right: 15px;
+    color: white;
+    position: relative;
+    bottom: 8px;
+}
+.topImg{
+    width: 32px;
+    height: 32px;
+    border-radius: 50%;
+    object-fit: cover;
+    cursor: pointer;
+    margin-right: 10px;
+}
