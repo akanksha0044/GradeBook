@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/GradeBook/static/css/main.93413757.css",
+    "main.js": "/GradeBook/static/js/main.cfea4de4.js",
+    "static/js/703.11a0ec86.chunk.js": "/GradeBook/static/js/703.11a0ec86.chunk.js",
+    "static/js/573.30d23577.chunk.js": "/GradeBook/static/js/573.30d23577.chunk.js",
+    "static/js/787.214bf9be.chunk.js": "/GradeBook/static/js/787.214bf9be.chunk.js",
+    "index.html": "/GradeBook/index.html",
+    "main.93413757.css.map": "/GradeBook/static/css/main.93413757.css.map",
+    "main.cfea4de4.js.map": "/GradeBook/static/js/main.cfea4de4.js.map",
+    "703.11a0ec86.chunk.js.map": "/GradeBook/static/js/703.11a0ec86.chunk.js.map",
+    "573.30d23577.chunk.js.map": "/GradeBook/static/js/573.30d23577.chunk.js.map",
+    "787.214bf9be.chunk.js.map": "/GradeBook/static/js/787.214bf9be.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.93413757.css",
+    "static/js/main.cfea4de4.js"
+  ]
+}
